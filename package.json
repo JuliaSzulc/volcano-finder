@@ -1,0 +1,27 @@
+{
+  "name": "volcano-finder",
+  "version": "1.0.0",
+  "description": "Hot volcanoes in your area",
+  "main": "index.js",
+  "scripts": {
+    "start": "node .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JuliaSzulc/volcano-finder.git"
+  },
+  "keywords": [
+    "volcano"
+  ],
+  "author": "Julia Szulc",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JuliaSzulc/volcano-finder/issues"
+  },
+  "homepage": "https://github.com/JuliaSzulc/volcano-finder#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "leaflet": "^1.9.2"
+  }
+}
